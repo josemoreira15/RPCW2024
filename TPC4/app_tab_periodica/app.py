@@ -43,6 +43,7 @@ def elemento(elemento):
 PREFIX tp: <http://www.daml.org/2003/01/periodictable/PeriodicTable#>
 select ?an ?aw ?b ?cr ?c ?col ?g ?p ?ss ?symb where {{
     ?s a tp:Element ;
+       tp:name "{elemento}" ;
        tp:group ?g ;
        tp:symbol ?symb ;
        tp:atomicNumber ?an .
