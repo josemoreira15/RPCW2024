@@ -113,4 +113,4 @@ for filme in cinema_json:
         print("error:", response.status_code)
 
 with open('dbpedia_cinema_final.json', 'w') as cinema_final_json_file:
-     json.dump(cinema_json, cinema_final_json_file, indent=4)
+    json.dump(cinema_json, cinema_final_json_file, indent=4)
