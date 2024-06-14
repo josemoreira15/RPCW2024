@@ -3,7 +3,7 @@
 ## Projeto desenvolvido por:
 * Duarte Parente (PG53791)
 * Gonçalo Pereira (PG53834)
-* José de Matos Moreira (PG53967)
+* José de Matos Moreira (PG53963)
 
 ## Resumo
 O presente relatório visa descrever detalhadamente a **gfootdz**, uma aplicação web responsável por agregar e apresentar diversa informação e as mais variadas estatísticas sobre a **Liga Portugal Betclic 2023/2024**. Para além disso, a aplicação desenvolvida aufere uma capacidade restrita de manipulação sobre os diversos dados existentes.
